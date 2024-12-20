@@ -2,7 +2,7 @@
 
 | ![images (14)](https://github.com/user-attachments/assets/3bc38f2c-0a87-4367-8eb3-c1c0488cb3e5) | [![download-now](https://github.com/user-attachments/assets/22657e67-9d2d-46af-a41a-5d365d2ddc1f)](https://modhello.com/id/laundry-store-simulator/)  |
 |:-------------------------------------------------:|-----------------------|
-| Platform: Android 5.1+                      | Versi: 2.0.6    |
+| Platform: Android 5.1+                      | Versi: 2.0.8    |
 | Ukuran: Simulation                                |  (5/5)⭐️⭐️⭐️⭐️⭐️  |
 | Pembaruan Terbaru: 19/12/2024                      | Kategori : Simulation |
 
